@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World welcome to project 1one</h2>
+<h1>Hello World welcome to project 1one</h1>
+<h2>adding second heading to project1</h2>
 </body>
 </html>
