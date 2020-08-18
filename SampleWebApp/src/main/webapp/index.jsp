@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hello World welcome to project 1one</h1>
-<h2>adding second heading to project1</h2>
+<h1>Welcome to Interation with git, Jenkins, Tomcat</h1>
+<h2>job succesfully completed</h2>
 </body>
 </html>
